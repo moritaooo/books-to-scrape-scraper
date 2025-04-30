@@ -1,19 +1,4 @@
 タイトル,価格,在庫状況,詳細URL
-When We Collided,Â£31.77,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/when-we-collided_955/index.html
-Someone Like You (The Harrisons #2),Â£52.79,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html
-We Are All Completely Beside Ourselves,Â£24.04,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html
+When We Collided,Â£31.77,In stock,https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+Someone Like You (The Harrisons #2),Â£52.79,In stock,https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html
+We Are All Completely Beside Ourselves,Â£24.04,In stock,https://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html

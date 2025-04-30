@@ -1,31 +1,6 @@
 タイトル,価格,在庫状況,詳細URL
-The Book of Basketball: The NBA According to The Sports Guy,Â£44.84,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
-"Friday Night Lights: A Town, a Team, and a Dream",Â£51.22,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html
-Sugar Rush (Offensive Line #2),Â£24.42,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html
-Settling the Score (The Summer Games #1),Â£44.91,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html
-Icing (Aces Hockey #2),Â£40.44,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html
+The Book of Basketball: The NBA According to The Sports Guy,Â£44.84,In stock,https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
+"Friday Night Lights: A Town, a Team, and a Dream",Â£51.22,In stock,https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html
+Sugar Rush (Offensive Line #2),Â£24.42,In stock,https://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html
+Settling the Score (The Summer Games #1),Â£44.91,In stock,https://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html
+Icing (Aces Hockey #2),Â£40.44,In stock,https://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html

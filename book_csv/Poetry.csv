@@ -1,115 +1,20 @@
 タイトル,価格,在庫状況,詳細URL
-A Light in the Attic,Â£51.77,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
-The Black Maria,Â£52.15,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-black-maria_991/index.html
-Shakespeare's Sonnets,Â£20.66,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
-Olio,Â£23.88,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/olio_984/index.html
-You can't bury them all: Poems,Â£33.63,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
-Slow States of Collapse: Poems,Â£57.31,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
-Untitled Collection: Sabbath Poems 2014,Â£14.27,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
-Poems That Make Grown Women Cry,Â£14.19,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html
-Night Sky with Exit Wounds,Â£41.05,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/night-sky-with-exit-wounds_822/index.html
-salt.,Â£46.78,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/salt_731/index.html
-"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Â£50.89,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html
-Out of Print: City Lights Spotlight No. 14,Â£53.64,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html
-Les Fleurs du Mal,Â£29.04,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html
-Howl and Other Poems,Â£40.45,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html
-Leave This Song Behind: Teen Poetry at Its Best,Â£51.17,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html
-The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Â£15.42,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html
-The Crossover,Â£38.77,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-crossover_398/index.html
-Booked,Â£17.49,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/booked_365/index.html
-Twenty Love Poems and a Song of Despair,Â£30.95,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html
+A Light in the Attic,Â£51.77,In stock,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+The Black Maria,Â£52.15,In stock,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+Shakespeare's Sonnets,Â£20.66,In stock,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+Olio,Â£23.88,In stock,https://books.toscrape.com/catalogue/olio_984/index.html
+You can't bury them all: Poems,Â£33.63,In stock,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+Slow States of Collapse: Poems,Â£57.31,In stock,https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
+Untitled Collection: Sabbath Poems 2014,Â£14.27,In stock,https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
+Poems That Make Grown Women Cry,Â£14.19,In stock,https://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html
+Night Sky with Exit Wounds,Â£41.05,In stock,https://books.toscrape.com/catalogue/night-sky-with-exit-wounds_822/index.html
+salt.,Â£46.78,In stock,https://books.toscrape.com/catalogue/salt_731/index.html
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Â£50.89,In stock,https://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html
+Out of Print: City Lights Spotlight No. 14,Â£53.64,In stock,https://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html
+Les Fleurs du Mal,Â£29.04,In stock,https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html
+Howl and Other Poems,Â£40.45,In stock,https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html
+Leave This Song Behind: Teen Poetry at Its Best,Â£51.17,In stock,https://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Â£15.42,In stock,https://books.toscrape.com/catalogue/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html
+The Crossover,Â£38.77,In stock,https://books.toscrape.com/catalogue/the-crossover_398/index.html
+Booked,Â£17.49,In stock,https://books.toscrape.com/catalogue/booked_365/index.html
+Twenty Love Poems and a Song of Despair,Â£30.95,In stock,https://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html

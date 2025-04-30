@@ -1,103 +1,18 @@
 タイトル,価格,在庫状況,詳細URL
-Security,Â£39.25,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/security_925/index.html
-Follow You Home,Â£21.36,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/follow-you-home_809/index.html
-The Loney,Â£23.40,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-loney_756/index.html
-Pet Sematary,Â£10.56,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/pet-sematary_726/index.html
-Doctor Sleep (The Shining #2),Â£40.12,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html
-Psycho: Sanitarium (Psycho #1.5),Â£36.97,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html
-Can You Keep a Secret? (Fear Street Relaunch #4),Â£48.64,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html
-Red Dragon (Hannibal Lecter #1),Â£23.37,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html
-Dracula the Un-Dead,Â£35.63,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html
-Night Shift (Night Shift #1-20),Â£12.75,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html
-Needful Things,Â£47.51,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/needful-things_334/index.html
-Misery,Â£34.79,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/misery_332/index.html
-It,Â£25.01,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/it_330/index.html
-'Salem's Lot,Â£49.56,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/salems-lot_309/index.html
-The Stand,Â£57.86,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-stand_282/index.html
-The Girl with All the Gifts,Â£49.47,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html
-House of Leaves,Â£54.89,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/house-of-leaves_169/index.html
+Security,Â£39.25,In stock,https://books.toscrape.com/catalogue/security_925/index.html
+Follow You Home,Â£21.36,In stock,https://books.toscrape.com/catalogue/follow-you-home_809/index.html
+The Loney,Â£23.40,In stock,https://books.toscrape.com/catalogue/the-loney_756/index.html
+Pet Sematary,Â£10.56,In stock,https://books.toscrape.com/catalogue/pet-sematary_726/index.html
+Doctor Sleep (The Shining #2),Â£40.12,In stock,https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html
+Psycho: Sanitarium (Psycho #1.5),Â£36.97,In stock,https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html
+Can You Keep a Secret? (Fear Street Relaunch #4),Â£48.64,In stock,https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html
+Red Dragon (Hannibal Lecter #1),Â£23.37,In stock,https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html
+Dracula the Un-Dead,Â£35.63,In stock,https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html
+Night Shift (Night Shift #1-20),Â£12.75,In stock,https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html
+Needful Things,Â£47.51,In stock,https://books.toscrape.com/catalogue/needful-things_334/index.html
+Misery,Â£34.79,In stock,https://books.toscrape.com/catalogue/misery_332/index.html
+It,Â£25.01,In stock,https://books.toscrape.com/catalogue/it_330/index.html
+'Salem's Lot,Â£49.56,In stock,https://books.toscrape.com/catalogue/salems-lot_309/index.html
+The Stand,Â£57.86,In stock,https://books.toscrape.com/catalogue/the-stand_282/index.html
+The Girl with All the Gifts,Â£49.47,In stock,https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html
+House of Leaves,Â£54.89,In stock,https://books.toscrape.com/catalogue/house-of-leaves_169/index.html

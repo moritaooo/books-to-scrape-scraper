@@ -1,109 +1,19 @@
 タイトル,価格,在庫状況,詳細URL
-Sapiens: A Brief History of Humankind,Â£54.23,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
-"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",Â£25.52,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
-The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,Â£19.73,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
-"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",Â£36.28,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
-Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,Â£59.64,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
-Zealot: The Life and Times of Jesus of Nazareth,Â£24.70,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html
-A Distant Mirror: The Calamitous 14th Century,Â£14.58,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html
-1491: New Revelations of the Americas Before Columbus,Â£21.80,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html
-Brilliant Beacons: A History of the American Lighthouse,Â£11.45,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html
-"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",Â£44.48,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html
-A Short History of Nearly Everything,Â£52.40,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html
-The Rise and Fall of the Third Reich: A History of Nazi Germany,Â£39.67,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html
-Catherine the Great: Portrait of a Woman,Â£58.55,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html
-The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,Â£42.91,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html
-The Hiding Place,Â£55.91,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-hiding-place_406/index.html
-America's War for the Greater Middle East: A Military History,Â£51.22,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html
-The Guns of August,Â£14.54,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html
-"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",Â£43.70,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html
+Sapiens: A Brief History of Humankind,Â£54.23,In stock,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",Â£25.52,In stock,https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,Â£19.73,In stock,https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",Â£36.28,In stock,https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,Â£59.64,In stock,https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
+Zealot: The Life and Times of Jesus of Nazareth,Â£24.70,In stock,https://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html
+A Distant Mirror: The Calamitous 14th Century,Â£14.58,In stock,https://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html
+1491: New Revelations of the Americas Before Columbus,Â£21.80,In stock,https://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html
+Brilliant Beacons: A History of the American Lighthouse,Â£11.45,In stock,https://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",Â£44.48,In stock,https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html
+A Short History of Nearly Everything,Â£52.40,In stock,https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html
+The Rise and Fall of the Third Reich: A History of Nazi Germany,Â£39.67,In stock,https://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html
+Catherine the Great: Portrait of a Woman,Â£58.55,In stock,https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,Â£42.91,In stock,https://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html
+The Hiding Place,Â£55.91,In stock,https://books.toscrape.com/catalogue/the-hiding-place_406/index.html
+America's War for the Greater Middle East: A Military History,Â£51.22,In stock,https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html
+The Guns of August,Â£14.54,In stock,https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",Â£43.70,In stock,https://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html

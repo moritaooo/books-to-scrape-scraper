@@ -1,37 +1,7 @@
 タイトル,価格,在庫状況,詳細URL
-Redeeming Love,Â£20.47,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/redeeming-love_826/index.html
-Close to You,Â£49.46,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/close-to-you_798/index.html
-Shadows of the Past (Logan Point #1),Â£39.67,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html
-Like Never Before (Walker Family #2),Â£28.77,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html
-Counted With the Stars (Out from Egypt #1),Â£17.97,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html
-If I Run (If I Run #1),Â£49.97,"<p class=""instock availability"">
-<i class=""icon-ok""></i>
-    
-        In stock
-    
-</p>",https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html
+Redeeming Love,Â£20.47,In stock,https://books.toscrape.com/catalogue/redeeming-love_826/index.html
+Close to You,Â£49.46,In stock,https://books.toscrape.com/catalogue/close-to-you_798/index.html
+Shadows of the Past (Logan Point #1),Â£39.67,In stock,https://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html
+Like Never Before (Walker Family #2),Â£28.77,In stock,https://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html
+Counted With the Stars (Out from Egypt #1),Â£17.97,In stock,https://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html
+If I Run (If I Run #1),Â£49.97,In stock,https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html
